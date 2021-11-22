@@ -4,9 +4,7 @@
 **I am a Frontend Developer!my favorite language is Flutter since 2020 And IT engineer from Shiraz University.
 I work in the field of applications and web,I am the "CodeDev" site administrator.
 I work with CSS & HTML
-In the past, I was a little interested in Backend and worked with js and php.**
-### Website
-https://codedev.ir 
+In the past, I was a little interested in Backend and worked with js and php.** 
 ### A Part Of Flutter Code:
 ```import 'package:flutter/material.dart';
 void main() async {
