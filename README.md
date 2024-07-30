@@ -1,7 +1,7 @@
 ### Hi My Friends!!!!
 
 ## Amirhossein Torabi
-**Hey there! Thanks for checking out my LinkedIn profile. My name is Amirhossein Torabi and I am a student at Polytechnic of Turin. I hold a degree in computer engineering from Islamic Azad University in Shiraz. 
+**Hey there!. My name is Amirhossein Torabi and I am a student at Polytechnic of Turin. I hold a degree in computer engineering from Islamic Azad University in Shiraz. 
 I am a web developer with a passion for creating visually appealing and user-friendly websites.
 I have extensive experience working with JavaScript and HTML/CSS, and I love using these languages to bring ideas to life. My skills also include designing websites using WordPress, making it easy for clients to maintain and update their sites.
 In 2021, I began my professional journey and have been fortunate to work with various clients and projects, honing my skills and gaining valuable experience. My dedication to delivering high-quality work and my attention to detail have been praised by my colleagues and clients
