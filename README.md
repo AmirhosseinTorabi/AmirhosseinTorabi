@@ -12,6 +12,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
+## 🧑‍💻 My Info
+
+```kotlin
+fun main() {
+    val name = "Amirhossein Torabi"
+    val university = "Politecnico di Torino"
+    val program = "Master Student of Software Engineering"
+
+    println("👋 Hello, nice to meet you!")
+    println("Name: $name")
+    println("University: $university")
+    println("Program: $program")
+}
+
 
 
 
