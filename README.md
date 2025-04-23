@@ -2,8 +2,6 @@
 
 ## Amirhossein Torabi
 
-## 🚀 My Tech Stack
-
 <h3 align="center">🚀 My Tech Stack</h3>
 
 <p align="center">
